@@ -131,7 +131,8 @@ justify-content: space-between;
     display: flex;
     flex-direction: column;
     max-width: 982px;
-    margin: 32px;
+    padding: 32px;
+    box-sizing: border-box;
 }
 
 .quote-text {
