@@ -17,13 +17,13 @@ body {
 }
 
 .logo,
-.main-text {
+.main-text-one {
     color: #f9faf8;
     font-weight: 900;
 }
 
 .links a,
-.subtext {
+.subtext-one {
     color: #e5e7eb;
     font-size: 18px;
 }
@@ -36,7 +36,7 @@ body {
     font-size: 24px;
 }
 
-.main-text {
+.main-text-one {
     font-size: 48px;
 }
 
