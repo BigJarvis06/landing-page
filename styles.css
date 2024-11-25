@@ -39,9 +39,8 @@ body {
 .main-text-one {
     font-size: 48px;
 }
-/* signup button section one and four */
-.signup-one,
-.signup-two {
+
+.signup-one {
     color: #f9faf8;
     background-color: #3882f6;
     border: 0px;
@@ -50,7 +49,7 @@ body {
     font-weight: 500;
 margin-right: auto;
 }
-/* signup button section one and four */
+
 .header-one {
     display: flex;
     align-items: center;
@@ -69,7 +68,7 @@ justify-content: space-between;
     justify-content: space-between;
 }
 
-.info {
+.info-one {
     width: 450px;
     display: flex;
     flex-direction: column;
@@ -148,4 +147,49 @@ justify-content: space-between;
     font-size: 24px;
     font-weight: 900;
     color: #1f2937;
+}
+/* section four start */
+.four {
+    height: 540px;
+    display: flex;
+    flex-direction: column;
+}
+
+.footer {
+    background-color: #1f2937;
+    color: #f9faf8;
+    height: 104px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.content-three {
+    background-color: #3882f6;
+    height: 200px;
+    margin: auto 10rem;
+    border-radius: 16px;
+    display: flex;
+}
+
+.signup-two {
+    color: #f9faf8;
+    background-color: #3882f6;
+    border: 2px solid #f9faf8;
+    border-radius: 12px;
+    padding: 12px 48px;
+    font-weight: 500;
+    margin: auto;
+    font-size: 24px;
+}
+
+.main-text-two {
+    font-size: 24px;
+    color: #f9faf8;
+    font-weight: 700;
+}
+
+.subtext-two {
+    font-size: 18px;
+    color: #e5e7eb;
 }
