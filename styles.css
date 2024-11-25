@@ -39,8 +39,9 @@ body {
 .main-text-one {
     font-size: 48px;
 }
-
-.signup {
+/* signup button section one and four */
+.signup-one,
+.signup-two {
     color: #f9faf8;
     background-color: #3882f6;
     border: 0px;
@@ -49,7 +50,7 @@ body {
     font-weight: 500;
 margin-right: auto;
 }
-
+/* signup button section one and four */
 .header-one {
     display: flex;
     align-items: center;
